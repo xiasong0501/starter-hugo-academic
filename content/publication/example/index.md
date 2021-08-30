@@ -31,7 +31,7 @@ url_source: ""
 url_video: ""
 title: Internet Advertising Investment Analysis Based on Beijing and Jinhua
   Signaling Data
-doi: ""
+doi: "10.1109/CSE/EUC.2019.00084"
 featured: true
 tags: []
 projects: []
@@ -43,7 +43,7 @@ image:
   filename: 19-advertise-paper1.gif
 date: 2019-08-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2019-08-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
