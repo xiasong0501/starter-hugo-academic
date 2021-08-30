@@ -1,48 +1,49 @@
 ---
-abstract: With the popularization of the internet, the media of advertising
-  tends to diversify. Compared to traditional advertising methods, internet
-  advertising is well received for its convenient and fast propagation mode.
-  However due to its mandatory and invasive property, the publicity effect of
-  internet advertising is greatly reduced. To make the delivery of Internet
-  advertising more directional and efficient, we try to analyze the behavioral
-  preferences of netizens from Beijing and Jinhua when using different Apps, and
-  then conclude some rational delivery strategies for internet advertising
-  investors. We use Multi-state Models (MSM) to construct an online Apps
-  transfer model for netizens, which will help to get some intuitive
-  conclusions. After that, basing on online apps transfer model, we adopt
-  entropy method, hierarchical clustering, and Tucker decomposition to mine the
-  potential behavioral preferences of netizens. Finally we provide some
-  suggestions and references with the internet advertisers.
+abstract: Recently, adversarial attacks have shown to lead the state-of-the-art
+  deep neural networks (DNNs) to misclassification. However, most adversarial
+  attacks are generated according to whether they are perceptual to human visual
+  system, measured by geometric metrics such as the l2-norm, which ignores the
+  common watermarks in cyber-physical systems. In this paper, we propose a fast
+  adversarial watermark attack (FAWA) method based on fast differential
+  evolution technique, which optimally superimposes a watermark on an image to
+  fool DNNs. We also attempt to explain the reason why the attack is successful
+  and propose two hypotheses on the vulnerability of DNN classifiers and the
+  influence of the watermark attack on higher-layer features extraction
+  respectively. In addition, we propose two countermeasure methods against FAWA
+  based on random rotation and median filtering respectively. Experimental
+  results show that our method achieves 41.3% success rate in fooling VGG-16 and
+  have good transferability. Our approach is also shown to be effective in
+  deceiving deep learning as a service (DLaaS) systems as well as the physical
+  world. The proposed FAWA, hypotheses, and the countermeasure methods, provide
+  a timely help for DNN designers to gain some knowledge of model vulnerability
+  while designing DNN classifiers and related DLaaS applications.
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
-  - Song Xia; Hao Jiang; Yi Zhang; Duo Peng
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: 2019 IEEE International Conference on Computational Science and Engineering
-summary: Advertising, Analytical models, Biological system modeling, Entropy, Sociology
+  - Hao Jiang; Jintao Yang; Guang Hua; Lixia Li; Ying Wang; Shenghui Tu; Song Xia
+author_notes: []
+publication: "IEEE Transactions on Computers "
+summary: Watermarking, Deep learning, Image recognition, Visual systems
+  ,Semantics, Perturbation methods
 url_dataset: ""
 url_project: ""
-publication_short: In *CSE*
+publication_short: ""
 url_source: ""
 url_video: ""
-title: Internet Advertising Investment Analysis Based on Beijing and Jinhua
-  Signaling Data
+title: "FAWA: Fast Adversarial Watermark Attack"
 doi: ""
 featured: true
 tags: []
 projects:
   - example
 image:
-  caption: "Apps transfer frequency diagrams. (a): Apps transfer frequency diagram
-    in Beijing (b): Apps transfer frequency diagram in Beijing"
+  caption: ""
   focal_point: ""
   preview_only: false
-  filename: 19-advertise-paper1.gif
-date: 2021-08-30T08:16:33.991Z
+  filename: ""
+date: 2021-03-11T08:20:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
