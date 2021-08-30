@@ -22,7 +22,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: IEEE International Conference on Computational Science and Engineering
+publication: 2019 IEEE International Conference on Computational Science and Engineering
 summary: Advertising, Analytical models, Biological system modeling, Entropy, Sociology
 url_dataset: ""
 url_project: ""
