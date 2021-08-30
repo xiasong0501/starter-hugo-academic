@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xia Song is a MSc student in Nangyang Technological University, who will graduate in May 2022. His research interests include Computer vision, robust and adversarial examples in AI and data analysis by machine learning. He has participated in projects about "Analysis of Chinese People's Online Preference" and "Adversarial Attack and Robust Methods in AI", from which he published three conference papers and one journal paper in IEEE. Now, he is conducting a project about "certified defense and randomized smoothing in AI" under the supervisor of Prof. Yap kim Hui in Nangyang Technological University. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
