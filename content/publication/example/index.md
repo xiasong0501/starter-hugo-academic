@@ -31,7 +31,7 @@ url_source: ""
 url_video: ""
 title: Internet Advertising Investment Analysis Based on Beijing and Jinhua
   Signaling Data
-doi: "10.1109/CSE/EUC.2019.00084"
+doi: 10.1109/CSE/EUC.2019.00084
 featured: true
 tags: []
 projects: []
@@ -40,7 +40,7 @@ image:
     in Beijing (b): Apps transfer frequency diagram in Beijing"
   focal_point: ""
   preview_only: false
-  filename: 19-advertise-paper1.gif
+  filename: 19-advertise-paper1.jpg
 date: 2019-08-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2019-08-01T00:00:00.000Z
