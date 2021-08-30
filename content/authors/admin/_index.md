@@ -25,10 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in School of Electrical and Electronic Engineer: NanYang Technological University 
-    year:2022
-  - course: BSc in Electrical Information school (Artificial intelligence track): Wuhan University 
-    year:2020
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
