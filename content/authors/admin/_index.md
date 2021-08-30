@@ -29,7 +29,7 @@ education:
     School: NanYang Technological University
     year: 2022
   - course: BSc in Electrical Information
-    School (Artificial intelligence track): Wuhan University
+    School: Wuhan University
     year: 2020
 
 
