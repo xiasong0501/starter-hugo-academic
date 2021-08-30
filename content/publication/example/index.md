@@ -13,7 +13,7 @@ abstract: With the popularization of the internet, the media of advertising
   entropy method, hierarchical clustering, and Tucker decomposition to mine the
   potential behavioral preferences of netizens. Finally we provide some
   suggestions and references with the internet advertisers.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -34,8 +34,7 @@ title: Internet Advertising Investment Analysis Based on Beijing and Jinhua
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Apps transfer frequency diagrams. (a): Apps transfer frequency diagram
     in Beijing (b): Apps transfer frequency diagram in Beijing"
