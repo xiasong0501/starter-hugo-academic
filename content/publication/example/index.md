@@ -26,7 +26,7 @@ publication: 2019 IEEE International Conference on Computational Science and Eng
 summary: Advertising, Analytical models, Biological system modeling, Entropy, Sociology
 url_dataset: ""
 url_project: ""
-publication_short: In *CSE*
+publication_short: ""
 url_source: ""
 url_video: ""
 title: Internet Advertising Investment Analysis Based on Beijing and Jinhua
