@@ -23,7 +23,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: IEEE International Conference on Computational Science and Engineering
-summary: "Advertising, signaling data, surfing preference, data analysis "
+summary: Advertising, Analytical models, Biological system modeling, Entropy, Sociology
 url_dataset: ""
 url_project: ""
 publication_short: In *CSE*
@@ -42,13 +42,12 @@ image:
   focal_point: ""
   preview_only: false
   filename: 19-advertise-paper1.gif
-date: 2019-01-08T00:00:00.000Z
+date: 2019-08-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
