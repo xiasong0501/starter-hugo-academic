@@ -33,7 +33,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: "FAWA: Fast Adversarial Watermark Attack"
-doi: ""
+doi: "10.1109/TC.2021.3065172"
 featured: true
 tags: []
 projects: []
