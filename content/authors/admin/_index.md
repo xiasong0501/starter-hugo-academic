@@ -25,11 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Electrical and Electronic Engineer
-    School: NanYang Technological University
+  - course: MSc in Signal Processing
+    institution: NanYang Technological University
     year: 2022
-  - course: BSc in Electrical Information
-    School: Wuhan University
+  - course: BSc in Communication Engineering
+    institution: Wuhan University
     year: 2020
 
 
