@@ -36,7 +36,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2019-09-19T07:56:37.818Z
+date: 2019-10-11T07:56:00.000Z
 url_slides: ""
 publishDate: 2019-08-01T00:00:00.000Z
 url_poster: ""
