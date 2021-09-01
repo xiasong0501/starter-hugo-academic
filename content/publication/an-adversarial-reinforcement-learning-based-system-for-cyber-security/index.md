@@ -26,7 +26,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: An adversarial reinforcement learning based system for cyber security
+title: An Adversarial Reinforcement Learning Based System for Cyber Security
 doi: 10.1109/SmartCloud.2019.00046
 featured: true
 tags: []
