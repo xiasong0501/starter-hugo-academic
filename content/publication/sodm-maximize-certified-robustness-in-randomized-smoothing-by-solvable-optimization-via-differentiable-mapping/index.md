@@ -34,5 +34,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: Adversarial examples, Differentiable optimization, Randomized
+  smoothing, Certified defense, .
 date: 2021-01-25T06:26:00.000Z
 ---
