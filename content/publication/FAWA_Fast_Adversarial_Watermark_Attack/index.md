@@ -33,15 +33,18 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: "FAWA: Fast Adversarial Watermark Attack"
-doi: "10.1109/TC.2021.3065172"
+doi: 10.1109/TC.2021.3065172
 featured: true
 tags: []
 projects: []
 image:
-  caption: ""
+  caption: High-level features and activation heat maps of clean samples and FAWA
+    samples. The first row is the samples, the second row is the
+    grayscale-guided backpropagation map visualization and the third row is the
+    score-weighted activation heat map visualization.
   focal_point: ""
   preview_only: false
-  filename: ""
+  filename: featured.png
 date: 2021-03-11T08:20:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
