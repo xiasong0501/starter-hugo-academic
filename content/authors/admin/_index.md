@@ -48,5 +48,5 @@ email: ""
 highlight_name: false 
 ---
 
-Xia Song is a MSc student in Nangyang Technological University, expected to graduate in May 2022. His research interests include Computer Vision, Robust AI and Data Analysis. He has participated in projects about "Analysis of Chinese People's Online Preference" and "Adversarial Attack in AI", where he published two conference papers and one journal paper in IEEE. Now, he is conducting a project about "Certified Defense Method in AI" under the supervisor of Prof. Yap kim Hui in Nangyang Technological University. 
+Xia Song is a MSc student in Nangyang Technological University, expected to graduate in May 2022. His research interests include Computer Vision, Robust AI and Data Analysis. He has participated in projects about "Analysis of Chinese People's Online Preference" and "Adversarial Attack in AI", where he published two conference papers and one journal paper in IEEE. Now, he is conducting a project about "Certified Defense And Robust AI" under the supervisor of Prof. Yap kim Hui in Nangyang Technological University. 
 
