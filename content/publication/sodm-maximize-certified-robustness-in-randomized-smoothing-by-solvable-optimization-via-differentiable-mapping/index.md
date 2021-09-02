@@ -28,8 +28,8 @@ abstract: "Randomized smoothing has been proved efficient to provide certified
   accelerate the training process by 91% to reach the state of the art result.
   When compared with Gaussian augmentation, our method accelerate the training
   process by 47% to get the similar performance on ImageNet."
-draft: true
-featured: false
+draft: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
