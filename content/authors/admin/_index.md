@@ -27,7 +27,7 @@ education:
   courses:
   - course: MSc in Signal Processing
     institution: NanYang Technological University
-    year: 2022
+    year: 2022 (expected graduation)
   - course: BSc in Communication Engineering
     institution: Wuhan University
     year: 2020
