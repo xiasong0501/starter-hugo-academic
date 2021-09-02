@@ -31,7 +31,7 @@ abstract: "Randomized smoothing has been proved efficient to provide certified
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: Certified radius and accuracy curve of different models on Cifar10.
