@@ -7,6 +7,7 @@ authors:
   - Song Xia
   - Hao Jiang
   - Haijun Shan
+  - Yap Kim Hui
   - Jintao Yang
 publication: Unpublished paper. Under revision to submission.
 abstract: "Randomized smoothing has been proved efficient to provide certified
