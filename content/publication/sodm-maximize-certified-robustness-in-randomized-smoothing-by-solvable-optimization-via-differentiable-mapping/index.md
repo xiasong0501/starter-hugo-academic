@@ -37,5 +37,5 @@ image:
   caption: Certified radius and accuracy curve of different models on Cifar10.
 summary: Adversarial examples, Differentiable optimization, Randomized
   smoothing, Certified defense, .
-date: 2021-01-25T06:26:00.000Z
+date: 2021-09-25T06:26:00.000Z
 ---
