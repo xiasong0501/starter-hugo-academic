@@ -8,7 +8,7 @@ authors:
   - Hao Jiang
   - Haijun Shan
   - Jintao Yang
-publication: "CVPR 2021 Submitted "
+publication: Unpublished paper. Under revision to submission.
 abstract: "Randomized smoothing has been proved efficient to provide certified
   defense to norm based adversarial perturbations for large-scale neural
   networks. However, this certified robustness is achieved by sacrificing
