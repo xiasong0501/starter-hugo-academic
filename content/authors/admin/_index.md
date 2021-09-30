@@ -25,7 +25,7 @@ highlight_name: false
 
 I am a MSc student advised by Porf. Yap Kim Hui in Electronic and Electrical Engineering at Nanyang Technological University. My expected graduation time is in May 2022. Currently, my research interest is Trustworthy & Robust AI. Before that, I participated in projects "Analysis of Chinese People's Online Preference" and "Adversarial Attack in Deep Learning", where I published two conference papers and one journal paper. 
 
-Now, I am conducting the project about “Trustworthy AI” under the supervision of Prof. Yap Kim Hui, where I try to provide the certified defense for deep learning by statistic model. I finished one draft paper about this research and is revising it for publication. 
+Now, I am conducting the project about “Trustworthy AI” under the supervision of Prof. Yap Kim Hui, where I try to provide the certified defense for deep learning by statistic model. I finished one draft paper in this project and is preparing for submission. 
 
 
 
