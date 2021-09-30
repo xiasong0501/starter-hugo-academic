@@ -41,7 +41,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: 19-advertise-paper1.jpg
-date: 2019-08-01T00:00:00.000Z
+date: 2021-08-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2019-08-01T00:00:00.000Z
 url_poster: ""
