@@ -3,9 +3,9 @@ title: Xia Song
 role: MSc in Signal processing
 bio: ""
 interests:
-  - Robust AI
-  - Computer Vision
+  - Trustworthy & Robust AI
   - Data Analysis
+  - Computer Vision
 organizations:
   - name: Nanyang Technological University
     url: https://www.ntu.edu.sg/
