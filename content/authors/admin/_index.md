@@ -1,6 +1,7 @@
 ---
 title: Xia Song
 role: MSc in Signal processing
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Trustworthy & Robust AI
