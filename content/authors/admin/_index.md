@@ -25,7 +25,7 @@ highlight_name: false
 
 I am a MSc student advised by Porf. Yap Kim Hui in Electronic and Electrical Engineering at Nanyang Technological University. My expected graduation time is May 2022. Currently, my research interest is Trustworthy & Robust AI. Before that, I participated in projects "Analysis of Chinese People's Online Preference" and "Adversarial Attack in Deep Learning", where I published two conference papers and one journal paper. I also finished a draft paper about explainable maximizing certified defense under randomized smoothing, which is under revision for submission.
 
-Now, I am conducting the project about “Trustworthy AI” under the supervision of Prof. Yap Kim Hui, where my goal is solving the high-dimensional Gaussian data overlapping problem and enhancing models' certified robustness with randomized smoothing. 
+Now, I am conducting the project about “Trustworthy AI” under the supervision of Prof. Yap Kim Hui, where my objective is solving the high-dimensional Gaussian data overlapping problem and enhancing models' certified robustness with randomized smoothing. 
 
 
 
